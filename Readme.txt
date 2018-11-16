@@ -19,7 +19,7 @@ len(plaintext) characters have been sliced from the key, so that the same key
 can be used for many encryptions/decryptions.
 
 To verify proper operation of the engine:
-  1. Comment out line 130 in "Engine.py"
+  1. Comment out line 133 in "Engine.py"
   2. Run "Engine.py" and enter your plaintext
   3. Copy the text from "output.txt"
   4. Run "Engine.py" again
